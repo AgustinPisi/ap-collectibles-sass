@@ -1,0 +1,43 @@
+/*SECCION INDEX */
+.carousel-control-prev-icon {
+    filter: brightness(0.5) sepia(1) hue-rotate(6deg) saturate(5);
+}
+
+.carousel-control-next-icon {
+    filter: brightness(0.5) sepia(1) hue-rotate(6deg) saturate(5);
+}
+
+#galeriaDeFotos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    img{
+        width: 680px;
+        padding: 15px;
+    
+    }
+}
+
+@media (min-width:100px){
+
+    #galeriaDeFotos img{
+        width: 100%;
+    }
+
+}
+
+@media (min-width:300px){
+
+    #galeriaDeFotos img{
+        width: 80%;
+    }
+
+}
+
+@media (min-width:680px){
+
+    #galeriaDeFotos img{
+        width: 680px;
+    }
+
+}

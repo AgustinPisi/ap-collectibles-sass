@@ -1,0 +1,41 @@
+/*SECCION REVIEWS */
+
+#main-reviews {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#review-content{
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.card-img-top{
+    margin-top: 10px;
+} 
+
+.grilla-explicita{
+    border: 2px solid black;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    overflow: hidden;
+    margin: auto;
+    justify-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    div{
+    
+        border: 2px solid #ffd900;
+        margin: 2px;
+        overflow: hidden;
+        border-radius: 10px;
+        margin: 10px;
+        
+        img{
+            width: 100%;
+        }
+    }
+}
+
