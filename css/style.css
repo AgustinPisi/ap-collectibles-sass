@@ -147,4 +147,14 @@ form {
   background-position: center;
   background-size: cover;
   padding: 20px;
+}
+
+#main-tienda {
+  margin-top: 25px;
+}
+
+#tienda-content {
+  width: 100%;
+  margin-right: 0px;
+  margin-left: 0px;
 }/*# sourceMappingURL=style.css.map */
