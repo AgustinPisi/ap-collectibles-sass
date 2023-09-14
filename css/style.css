@@ -16,6 +16,10 @@
   transition: all 0.2s;
 }
 
+.cartas-noticias .card:hover {
+  cursor: pointer;
+}
+
 #header {
   font-family: "Roboto Condensed";
 }
@@ -157,7 +161,7 @@ h2 {
   padding: 0px;
   background-color: rgb(0, 0, 0);
 }
-#main-contacto section h3 {
+#main-contacto #texto-contacto {
   color: #d68227;
   background-color: rgb(0, 0, 0);
   text-align: center;
