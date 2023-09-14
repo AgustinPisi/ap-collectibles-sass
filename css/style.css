@@ -144,6 +144,12 @@ h2 {
   width: 100%;
   margin-right: 0px;
   margin-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+#noticias-content .cartas-noticias {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 /* SECCION CONTACTO */
