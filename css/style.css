@@ -43,7 +43,7 @@ h1 {
   color: #000000;
   background-color: #d68227;
   margin-top: 0px;
-  margin-bottom: 85px;
+  margin-bottom: 60px;
 }
 
 h2 {
@@ -69,6 +69,7 @@ h2 {
 
 /*SECCION INDEX */
 #carouselExampleFade {
+  margin-top: 25px;
   margin-bottom: 80px;
 }
 
