@@ -40,9 +40,9 @@ h1 {
   justify-content: space-evenly;
   font-family: "Roboto Condensed";
   font-weight: bolder;
-  color: #ffd900;
-  margin-top: 10px;
-  margin-bottom: 0;
+  color: #d68227;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 h2 {
@@ -58,7 +58,6 @@ h2 {
 }
 
 .footer {
-  background-color: black;
   color: #ffd900;
   text-align: center;
   font-family: "Roboto Condensed";
