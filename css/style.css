@@ -11,6 +11,19 @@
   margin-bottom: 0;
 }
 
+.estilo-texto2 {
+  display: flex;
+  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  font-family: "Roboto Condensed";
+  font-weight: bolder;
+  color: #000000;
+  background-color: #d68227;
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
 .up-scale:hover {
   transform: scale(1.1);
   transition: all 0.2s;
